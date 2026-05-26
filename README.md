@@ -22,7 +22,7 @@ Year: 2025
 
 # Full Paper
 You can read the full paper here:  
-👉 Directpdf.pdf
+ https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025/
 
 
 # Keywords
