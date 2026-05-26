@@ -4,7 +4,8 @@ International DeBlock Conference 2025
 
 
 # Author
-Setayesh Taherzadeh (Independent Researcher)
+Setayesh Taherzadeh 
+Undergraduate Student of Computer Engineering (Software), Islamic Azad University, Yadegar-e-Imam Unit, Pasdaran Branch, Tehran, Iran
 
 
 # Abstract
