@@ -1,10 +1,10 @@
 # A Review Paper
-A Review on the Convergence of Artificial Intelligence and Blockchain 
+A Review on the Convergence of Artificial Intelligence and Blockchain <br/>
 International DeBlock Conference 2025
 
 
 # Author
-Setayesh Taherzadeh 
+Setayesh Taherzadeh <br/>
 Undergraduate Student of Computer Engineering (Software), Islamic Azad University, Yadegar-e-Imam Unit, Pasdaran Branch, Tehran, Iran
 
 
@@ -16,12 +16,12 @@ The study analyzes existing literature and shows that this integration has appli
 Despite these advantages, several challenges remain, including scalability limitations, system complexity, data integration issues, and implementation costs. The paper also discusses future trends and possible solutions for improving the adoption of these technologies.
 
 # Conference / Publication
-Published in: International DeBlock Conference 
+Published in: International DeBlock Conference <br/>
 Year: 2025
 
 
 # Full Paper
-You can read the full paper here:  
+You can read the full paper here:  <br/>
 [(https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025/DirectPdf.pdf)
 ](https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025/DirectPdf.pdf)
 
