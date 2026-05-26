@@ -9,7 +9,6 @@ Undergraduate Student of Computer Engineering (Software), Islamic Azad Universit
 
 
 # Abstract
-
 This paper reviews the integration of Artificial Intelligence and Blockchain technologies. It focuses on their combined potential to improve security, transparency, scalability, efficiency, and decision-making in digital systems.
 
 The study analyzes existing literature and shows that this integration has applications in areas such as supply chain management, financial services, data management, healthcare, and industrial systems.
