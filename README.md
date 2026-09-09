@@ -45,4 +45,4 @@ You can read the full paper here:  <br/>
 
 - This work was originally published as part of the [conference proceedings](https://www.deblocksummit.org/wp-content/uploads/2025/11/DeBlock-Conference-2025.pdf), pp. 1081–1093.
 - <br/> <br/>
-- Indexed on [civilica.com/doc/2704475](https://civilica.com/doc/2704475/) (Iran's national academic conference database).
+- Indexed on [civilica](https://civilica.com/doc/2704475/) (Iran's national academic conference database).
