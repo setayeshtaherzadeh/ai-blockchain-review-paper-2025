@@ -31,7 +31,7 @@ Year: 2025
 
 
 ## Full Paper
-You can read the full paper here: [Download PDF] (https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025/DirectPdf.pdf)
+You can read the full paper here: [Download PDF](https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025/DirectPdf.pdf)
 
 ## Keywords
 - Artificial Intelligence  
