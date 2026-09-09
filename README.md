@@ -42,4 +42,6 @@ You can read the full paper here:  <br/>
 
 
 ## Note
-This work was originally published as part of conference proceedings،pp. 1081–1093.
+This work was originally published as part of conference proceedings،pp. 1081–1093. [(Full Proceedings PDF](https://www.deblocksummit.org/wp-content/uploads/2025/11/DeBlock-Conference-2025.pdf)]
+<br/>
+Indexed on Civilica: [[civilica.com/doc/2704475](https://civilica.com/doc/2704475/)]
